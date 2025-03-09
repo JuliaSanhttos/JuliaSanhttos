@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=fb6f92&section=header&reversal=true&textBg=false&fontColor=f4acb7&descAlign=45&descAlignY=60&descSize=3&desc=2)"/>
+
 Hello, I'm Julia Santos
 📚A student of Computer Science in Brazil<br>🌱 I’m currently learning about information security<br>
 
